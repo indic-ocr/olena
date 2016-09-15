@@ -68,3 +68,10 @@ viewer.qrc.cc
 xml_widget.cc
 xml_widget.hh
 xml_widget.moc.cc
+viewer.qrc
+general_options.ui
+help_dialog.ui
+ocr_options.ui
+preferences_dialog.ui
+preprocessing_options.ui
+segmentation_options.ui

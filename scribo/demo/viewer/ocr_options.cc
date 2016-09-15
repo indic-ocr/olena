@@ -58,6 +58,7 @@ int ocr_options::find_index(const QString& lang)
 
 void ocr_options::load_config()
 {
+    printf("Hello");
   config * const conf = config::get_instance();
 
   enable_ocr->setChecked(conf->ocr_enabled());
