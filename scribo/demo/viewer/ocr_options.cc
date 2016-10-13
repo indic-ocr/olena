@@ -25,9 +25,19 @@ using namespace scribo::toolchain::internal;
 
 
 static const char *language[][2] = {
-  { "English", "eng" },
-  { "French", "fra" },
-  { 0, 0 }
+    { "English", "eng" },
+    { "Hindi", "hin" },
+    { "Tamil", "tam" },
+    { "Bengali", "ben" },
+    { "Kannada", "kan" },
+    { "Telugu", "tel" },
+    { "Malayalam", "mal" },
+    { "Gujarati", "guj" },
+    { "Marathi", "mar" },
+    { "Punjabi", "pan" },
+    { "Oriya", "ori" },
+    { "French", "fra" },
+    { 0, 0 }
 };
 
 

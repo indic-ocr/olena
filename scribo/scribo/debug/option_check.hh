@@ -75,8 +75,8 @@ namespace scribo
       static const char *values[] =
 	{
 	  "eng",
-	  "fra",
-	  "deu",
+      "tam",
+      "hin",
 	  "ita",
 	  "nld",
 	  "por",
