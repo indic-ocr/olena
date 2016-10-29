@@ -74,14 +74,22 @@ namespace scribo
     {
       static const char *values[] =
 	{
-	  "eng",
-      "tam",
-      "hin",
-	  "ita",
-	  "nld",
-	  "por",
-	  "spa",
-	  "vie",
+          "eng",
+          "tam",
+          "hin",
+          "mal",
+          "kan",
+          "tel",
+          "guj",
+          "ori",
+          "mar",
+          "ben",
+          "mal",
+          "ita",
+          "nld",
+          "por",
+          "spa",
+          "vie",
 	  0
 	};
       mln_assertion(args.size() == 1);
